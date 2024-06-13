@@ -4,6 +4,3 @@
 - 🔭 I’m currently working on ... Web Development
 - 🌱 I’m currently learning... DSA
 
-<p align="center">
-<img src="https://wakatime.com/badge/user/018d9487-531f-470c-92c5-1783b6d9cff6.svg" alt="Wakatime_Coder-PinkuModi" />
-</p>

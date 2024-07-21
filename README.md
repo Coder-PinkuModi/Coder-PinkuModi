@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://git-profile-readme-banner.vercel.app/api/python?username=PinkuModi&txt=Here%20is%20my%20custom%20text" alt="Custom Banner">
+  <img src="https://git-profile-readme-banner.vercel.app/api/python?username=Coder-PinkuModi&txt=Here%20is%20my%20custom%20text" alt="Custom Banner">
 </p>
 
 

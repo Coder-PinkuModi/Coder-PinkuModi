@@ -3,7 +3,7 @@
 ## 🚀 Fullstack Web Developer (MERN Stack)
 
 ### About Me
-Hey from <b>Pinku Modi</b>, a web developer- started with frontend technologies, and now I'm diving deep into backend development with the MERN stack. I'm passionate about creating efficient and scalable web applications. 
+I am a <b>Web Developer</b>- started with frontend technologies, and now I'm diving deep into backend development with the MERN stack. I'm passionate about creating efficient and scalable web applications. 
 
 ### 🛠️ Skills
 

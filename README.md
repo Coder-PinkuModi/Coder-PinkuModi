@@ -10,8 +10,7 @@ Hey from <b>Pinku Modi</b>, a web developer- started with frontend technologies,
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Tools**: Git, Postman
-- 
-
+  
 ### 🌱 Currently Learning
 - Data Structures and Algorithms (DSA)
 - Advanced MERN Stack techniques

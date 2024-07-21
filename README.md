@@ -1,4 +1,4 @@
-![Banner](<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=Pinku Modi"></p>)
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=Pinku Modi"></p>
 
 
 ## 🚀 Fullstack Web Developer (MERN Stack)

@@ -17,7 +17,7 @@ Hey from <b>Pinku Modi</b>, a web developer- started with frontend technologies,
 - Advanced MERN Stack techniques
 
 ### 📊 GitHub Stats
-[![Pinku Modi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coder-PinkuModi)](https://github.com/Coder-PinkuModi)
+[![Pinku Modi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coder-PinkuModi)](https://github.com/Coder-PinkuModi&show_icons=true&theme=radical)
 
 
 

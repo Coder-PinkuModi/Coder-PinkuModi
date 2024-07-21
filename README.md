@@ -19,7 +19,11 @@ Hey from <b>Pinku Modi</b>, a web developer- started with frontend technologies,
 ### 📊 GitHub Stats
 [![Pinku Modi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coder-PinkuModi)](https://github.com/Coder-PinkuModi&show_icons=true&theme=radical)
 
+### 📈 Projects
+- **Short URL Generator**: A web app to shorten URLs and track usage.
 
+  ### 📊 Coding Activity
+  -[![wakatime](https://wakatime.com/badge/user/018d9487-531f-470c-92c5-1783b6d9cff6.svg)](https://wakatime.com/@018d9487-531f-470c-92c5-1783b6d9cff6)
 
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/pinku-modi-bbb0472bb)

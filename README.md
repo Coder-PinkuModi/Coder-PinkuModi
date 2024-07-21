@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://git-profile-readme-banner.vercel.app/api/python?username=Coder-Pinku&txt=Welcome%20to%20my%20github%20account" alt="Custom Banner">
-</p>
-
-
+# 👋 Hi, I'm Pinku Modi!
 
 ## 🚀 Fullstack Web Developer (MERN Stack)
 
@@ -19,6 +15,10 @@ Hey from <b>Pinku Modi</b>, a web developer- started with frontend technologies,
 ### 🌱 Currently Learning
 - Data Structures and Algorithms (DSA)
 - Advanced MERN Stack techniques
+
+### 📊 GitHub Stats
+[![Pinku Modi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coder-PinkuModi)](https://github.com/Coder-PinkuModi)
+
 
 
 ### 📫 Connect with Me

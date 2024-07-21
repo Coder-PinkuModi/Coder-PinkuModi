@@ -1,4 +1,4 @@
-<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=Pinku%20Modi%20&txt=Here%20is%20my%20custom%20text"></p>
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=PinkuModi&txt=Here%20is%20my%20custom%20text"></p>
 
 ## 🚀 Fullstack Web Developer (MERN Stack)
 

@@ -1,4 +1,7 @@
-<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=PinkuModi&txt=Here%20is%20my%20custom%20text"></p>
+<p align="center">
+  <img src="https://git-profile-readme-banner.vercel.app/api/python?username=YourGitHubUsername&txt=Here%20is%20my%20custom%20text" alt="Custom Banner">
+</p>
+
 
 ## 🚀 Fullstack Web Developer (MERN Stack)
 

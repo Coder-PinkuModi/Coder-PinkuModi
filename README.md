@@ -38,7 +38,6 @@ I am a <b>Web Developer</b>- started with frontend technologies, and now I'm div
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-PinkuModi&layout=compact&theme=radical&langs_count=10&count_private=true" alt="Top Languages" style="width: 48%;" />
 </div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-PinkuModi&layout=compact&theme=radical)
 
 
 ### 📈 Projects

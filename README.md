@@ -33,6 +33,11 @@ I am a <b>Web Developer</b>- started with frontend technologies, and now I'm div
 ### 📊 GitHub Stats
 [![Pinku Modi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coder-PinkuModi)](https://github.com/Coder-PinkuModi&show_icons=true&theme=radical)
 
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-PinkuModi&layout=compact&theme=radical)
+
+
 ### 📈 Projects
 - **Short URL Generator**: A web app to shorten URLs and track usage.
 

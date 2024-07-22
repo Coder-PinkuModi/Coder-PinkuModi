@@ -31,8 +31,11 @@ I am a <b>Web Developer</b>- started with frontend technologies, and now I'm div
 - Advanced MERN Stack techniques
 
 ### 📊 GitHub Stats
+## GitHub Stats
+
 <div style="display: flex; justify-content: space-between;">
-[![Pinku Modi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coder-PinkuModi)](https://github.com/Coder-PinkuModi&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=Coder-PinkuModi&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Pinku Modi's GitHub Stats" style="width: 48%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-PinkuModi&layout=compact&theme=radical&langs_count=10&count_private=true" alt="Top Languages" style="width: 48%;" />
 </div>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-PinkuModi&layout=compact&theme=radical)

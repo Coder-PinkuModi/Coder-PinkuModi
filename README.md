@@ -30,8 +30,7 @@ I am a <b>Web Developer</b>- started with frontend technologies, and now I'm div
 - Data Structures and Algorithms (DSA)
 - Advanced MERN Stack techniques
 
-### 📊 GitHub Stats
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=Coder-PinkuModi&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Pinku Modi's GitHub Stats" style="width: 48%;" />

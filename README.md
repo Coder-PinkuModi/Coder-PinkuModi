@@ -81,12 +81,15 @@ I am a <b>Web Developer</b>- started with frontend technologies, and now I'm div
 </div>
 
 
-
 ### 📈 Projects
 - **Short URL Generator**: A web app to shorten URLs and track usage.
 
   ### 📊 Coding Activity
   -[![wakatime](https://wakatime.com/badge/user/018d9487-531f-470c-92c5-1783b6d9cff6.svg)](https://wakatime.com/@018d9487-531f-470c-92c5-1783b6d9cff6)
+
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Coder-PinkuModi" alt="Coder-PinkuModi" width="92%" align="center" />
+<br><br>
 
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/pinku-modi-bbb0472bb)

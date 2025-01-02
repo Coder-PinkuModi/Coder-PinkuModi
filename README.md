@@ -91,9 +91,19 @@ I am a <b>Web Developer</b>- started with frontend technologies, and now I'm div
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Coder-PinkuModi" alt="Coder-PinkuModi" width="92%" align="center" />
 <br><br>
 
-### 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/pinku-modi-bbb0472bb)
-- [Email](mailto:thecoderpinku@gmail.com)
+<h2 align="left">🌐 Let's Connect!</h2>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/pinku-modi-bbb0472bb" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:thecoderpinku@gmail.com">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" height="30" width="40" />
+  </a>
+<!--   <!-- Portfolio button with custom styling -->
+  <a href="[your-portfolio-url]" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/aboutdotme.svg" alt="Portfolio" height="30" width="40" />
+  </a> -->
+</p>
 
 

@@ -7,10 +7,10 @@ I am a <b>Web Developer</b>- started with frontend technologies, and now I'm div
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Coder-PinkuModi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-    ![wakatime](https://wakatime.com/badge/user/018d9487-531f-470c-92c5-1783b6d9cff6.svg)](https://wakatime.com/@018d9487-531f-470c-92c5-1783b6d9cff6)
+    <a href="https://wakatime.com/@018d9487-531f-470c-92c5-1783b6d9cff6">
+        <img src="https://wakatime.com/badge/user/018d9487-531f-470c-92c5-1783b6d9cff6.svg" alt="wakatime" />
+    </a>
 </p>
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

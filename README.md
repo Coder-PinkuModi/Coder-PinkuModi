@@ -97,7 +97,6 @@ I am a <b>Web Developer</b>- started with frontend technologies, and now I'm div
 
 <h2 align="left">🌐 Let's Connect!</h2>
 
-### 🌟 Connect With Me:
 <p align="center">
     <a href="https://www.linkedin.com/in/pinku-modi-bbb0472bb" target="_blank">
         <img src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" height="110px" alt="LinkedIn"/>

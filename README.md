@@ -100,10 +100,6 @@ I am a <b>Web Developer</b>- started with frontend technologies, and now I'm div
   <a href="mailto:thecoderpinku@gmail.com">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" height="30" width="40" />
   </a>
-<!--   <!-- Portfolio button with custom styling -->
-  <a href="[your-portfolio-url]" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/aboutdotme.svg" alt="Portfolio" height="30" width="40" />
-  </a> -->
 </p>
 
 

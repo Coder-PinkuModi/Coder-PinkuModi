@@ -5,6 +5,13 @@
 ### About Me
 I am a <b>Web Developer</b>- started with frontend technologies, and now I'm diving deep into backend development with the MERN stack. I'm passionate about creating efficient and scalable web applications. 
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Coder-PinkuModi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    -[![wakatime](https://wakatime.com/badge/user/018d9487-531f-470c-92c5-1783b6d9cff6.svg)](https://wakatime.com/@018d9487-531f-470c-92c5-1783b6d9cff6)
+</p>
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
@@ -84,22 +91,24 @@ I am a <b>Web Developer</b>- started with frontend technologies, and now I'm div
 ### 📈 Projects
 - **Short URL Generator**: A web app to shorten URLs and track usage.
 
-  ### 📊 Coding Activity
-  -[![wakatime](https://wakatime.com/badge/user/018d9487-531f-470c-92c5-1783b6d9cff6.svg)](https://wakatime.com/@018d9487-531f-470c-92c5-1783b6d9cff6)
-
 <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Coder-PinkuModi" alt="Coder-PinkuModi" width="92%" align="center" />
 <br><br>
 
 <h2 align="left">🌐 Let's Connect!</h2>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/pinku-modi-bbb0472bb" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="mailto:thecoderpinku@gmail.com">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" height="30" width="40" />
-  </a>
+### 🌟 Connect With Me:
+<p align="center">
+    <a href="https://www.linkedin.com/in/pinku-modi-bbb0472bb" target="_blank">
+        <img src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" height="110px" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:thecoderpinku@gmail.com" target="_blank">
+        <img src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" height="100px" alt="Email"/>
+    </a>
+    <!-- You can add your portfolio image here once you have it -->
+    <a href="[your-portfolio-url]" target="_blank">
+        <img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" height="90px" alt="Portfolio"/>
+    </a>
 </p>
 
 

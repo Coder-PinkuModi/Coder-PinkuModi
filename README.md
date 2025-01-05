@@ -19,6 +19,14 @@ const pinkuModi = {
   code: ["JavaScript", "TypeScript", "Python", "C++"],
   currentFocus: "Full Stack Development",
   challenge: "Learning DSA and Advanced MERN Stack techniques",
+  expertise: "Master in Full Stack Development",
+  learning: "Expanding knowledge in DevOps",
+  interests: {
+    development: "MERN Stack Architecture",
+    devOps: ["Docker", "CI/CD", "Infrastructure as Code", "Cloud Services"],
+    future: "Building scalable and efficient web applications"
+  },
+  workingProject: "Job-Portal",
 };
 ```
 
@@ -69,11 +77,11 @@ const pinkuModi = {
 - 🌐 System Design & Architecture
 - 📱 Progressive Web Apps (PWA)
 
-### Recent Project: Short URL Generator
+### Completed Project: Short URL Generator
 <table>
   <tr>
     <td>
-      <a href="[your-project-link]">
+      <a href="[https://lnksnip.onrender.com]">
         <img src="https://img.shields.io/badge/View_Project-FF4470?style=for-the-badge&logo=github&logoColor=white" alt="Project Badge"/>
       </a>
     </td>

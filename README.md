@@ -26,7 +26,7 @@ const pinkuModi = {
     devOps: ["Docker", "CI/CD", "Infrastructure as Code", "Cloud Services"],
     future: "Building scalable and efficient web applications"
   },
-  workingProject: "Job-Portal",
+  workingProject: "Job-Portal"
 };
 ```
 
@@ -34,25 +34,66 @@ const pinkuModi = {
 <summary>🛠 Skills & Technologies</summary>
 <br>
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+<a href="https://postman.com" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</a>
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
+</a>
+<a href="https://www.centos.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg" alt="centos" width="40" height="40"/>
+</a>
+<a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg" alt="vagrant" width="40" height="40"/>
+</a>
+</p>
 </details>
 
 <details>
@@ -81,7 +122,7 @@ const pinkuModi = {
 <table>
   <tr>
     <td>
-      <a href="[https://lnksnip.onrender.com]">
+      <a href="https://lnksnip.onrender.com" target="_blank">
         <img src="https://img.shields.io/badge/View_Project-FF4470?style=for-the-badge&logo=github&logoColor=white" alt="Project Badge"/>
       </a>
     </td>
@@ -90,19 +131,19 @@ const pinkuModi = {
 </table>
 </details>
 
-## 🌐 Connect With Me
+<h2 align="left">🌐 Let's Connect!</h2>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/pinku-modi-bbb0472bb">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:thecoderpinku@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="[your-portfolio-url]">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio"/>
-  </a>
-</div>
+<p align="center">
+    <a href="https://www.linkedin.com/in/pinku-modi-bbb0472bb" target="_blank">
+        <img src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" height="110px" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:thecoderpinku@gmail.com" target="_blank">
+        <img src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" height="100px" alt="Email"/>
+    </a>
+    <a href="#" target="_blank">
+        <img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" height="90px" alt="Portfolio"/>
+    </a>
+</p>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Coder-PinkuModi&theme=react-dark" alt="Contribution Graph" width="100%"/>

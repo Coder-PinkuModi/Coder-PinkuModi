@@ -110,13 +110,12 @@ const pinkuModi = {
 </details>
 
 <details>
-<summary>🎯 Current Focus</summary>
+<summary>🎯 Technical Mastery Plan</summary>
 <br>
-
-- 📚 Mastering Data Structures and Algorithms
-- 🔄 Advanced MERN Stack Development
-- 🌐 System Design & Architecture
-- 📱 Progressive Web Apps (PWA)
+- 🧠 Algorithm Engineering & Data Structure Architecture
+- ⚡ Full-Stack MERN Development & Best Practices + DevOps
+- 🏗️ Enterprise System Design & Scalable Architecture
+- 💫 Next-Generation Progressive Web Applications
 
 ### Completed Project: Short URL Generator
 <table>

@@ -112,9 +112,9 @@ const pinkuModi = {
 <details>
 <summary>🎯 Technical Mastery Plan</summary>
 <br>
-- 🧠 Algorithm Engineering & Data Structure Architecture
-- ⚡ Full-Stack MERN Development & Best Practices + DevOps
-- 🏗️ Enterprise System Design & Scalable Architecture
+- 🧠 Algorithm Engineering & Data Structure Architecture <br>
+- ⚡ Full-Stack MERN Development & Best Practices + DevOps <br>
+- 🏗️ Enterprise System Design & Scalable Architecture <br>
 - 💫 Next-Generation Progressive Web Applications
 
 ### Completed Project: Short URL Generator
